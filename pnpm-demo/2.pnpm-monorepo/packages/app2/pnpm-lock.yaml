@@ -1,0 +1,7 @@
+lockfileVersion: 5.4
+
+specifiers:
+  app1: workspace:^1.0.0
+
+dependencies:
+  app1: link:../app1

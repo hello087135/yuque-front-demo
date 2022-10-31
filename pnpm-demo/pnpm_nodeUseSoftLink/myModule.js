@@ -1,0 +1,1 @@
+exports.str = 'myModule from softLink';
